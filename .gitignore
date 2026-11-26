@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+output/
+.deps/
+.miktex/
+*.aux
+*.log
+*.out
+*.toc
